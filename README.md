@@ -1,107 +1,62 @@
-# FUTURE_DS_01
-Interactive Business Sales Performance Analytics Dashboard built using Power BI and Global Superstore dataset. This project analyzes sales trends, profit margins, regional performance, customer segments, and top products through KPI-driven visualizations and actionable business insights.
-# 📊 Business Sales Performance Analytics Dashboard
+Business Sales Performance Analytics Dashboard
 
-## 📌 Project Overview
+📌 Overview
 
-This project focuses on analyzing Global Superstore sales data to identify revenue trends, regional performance, customer segment contribution, and product-level insights using Power BI.
+An interactive Power BI dashboard analyzing sales performance using the Global Superstore dataset. The dashboard surfaces sales trends, profit margins, regional performance, and customer segmentation to support business decision-making.
 
-The dashboard helps businesses monitor KPIs, understand sales patterns, and make data-driven decisions through interactive visualizations and analytics.
+🎯 Business Objective
 
----
+(Edit this: e.g., "Help leadership understand which regions, products, and customer segments drive profitability — and where margins are being lost — to guide pricing and inventory strategy.")
 
-## 🚀 Features
+🗂️ Dataset
 
-* Interactive Power BI Dashboard
-* Sales & Profit KPI Tracking
-* Profit Margin Analysis
-* Regional & Market Performance Analysis
-* Top 10 Products Analysis
-* Lowest Revenue Product Analysis
-* Quarterly Sales Trend Visualization
-* Category & Segment Filtering
 
----
+Source: Global Superstore dataset
+Size: (e.g., X rows, Y columns)
+Key fields: Order Date, Region, Category, Sub-Category, Sales, Profit, Customer Segment, Shipping Mode, etc.
 
-## 🛠️ Tools & Technologies Used
 
-* Power BI
-* Microsoft Excel
-* DAX (Data Analysis Expressions)
-* Data Cleaning & Transformation
-* Data Visualization
+🛠️ Tools & Tech Stack
 
----
 
-## 📂 Dataset
+Power BI — data modeling, DAX measures, and dashboard design
+Excel/Python (if used for pre-processing)
 
-Dataset Used: Global Superstore Dataset
 
-Key Columns:
+🔍 Approach
 
-* Sales
-* Profit
-* Market
-* Segment
-* Category
-* Product Name
-* Order Date
-* Region
 
----
+Data Cleaning & Modeling — prepared and structured the dataset for analysis
+Sales Trend Analysis — tracked revenue and profit over time
+Regional Performance — compared performance across regions/markets
+Customer Segmentation — analyzed behavior by segment (Consumer, Corporate, Home Office)
+Dashboard Design — built filters/slicers for interactive exploration
 
-## 📈 Key KPIs
 
-| KPI           | Value  |
-| ------------- | ------ |
-| Total Sales   | 12.64M |
-| Total Profit  | 1.47M  |
-| Profit Margin | 11.6%  |
+📊 Dashboard Preview
 
----
+(Add a screenshot here — this is the most important visual for recruiters)
 
-## 📊 Dashboard Insights
+![Dashboard Screenshot](images/dashboard.png)
 
-* APAC market generated the highest sales revenue.
-* Consumer segment contributed the majority of total sales.
-* Quarterly sales showed consistent growth from Q1 to Q4.
-* Technology category demonstrated strong profitability.
-* Some products generated consistently lower revenue.
+💡 Key Insights
 
----
+(Replace with 3-5 real findings, e.g.:)
 
-## 💡 Business Recommendations
 
-* Focus marketing efforts on high-performing regions.
-* Improve inventory planning for top-selling products.
-* Reduce investment in low-performing products.
-* Optimize strategies for lower-performing quarters.
-* Monitor category-level profitability regularly.
+Region X generates the highest sales but has the lowest profit margin
+Category Y is the most profitable across all segments
+Q4 consistently shows the strongest sales performance
 
----
 
-## 📸 Dashboard Preview
+🚀 How to Use
 
-(Add your dashboard screenshot here)
 
----
+Download dashboard.pbix
+Open in Power BI Desktop
+Use slicers to filter by region, category, segment, and date range
 
-## 🎯 Project Outcome
 
-This project demonstrates practical skills in:
+📬 Contact
 
-* Business Intelligence
-* Data Visualization
-* KPI Analysis
-* Dashboard Design
-* Sales Analytics
-* Insight Generation
-
----
-
-## 👨‍💻 Author
-
-Omkar Madipalli
-
-LinkedIn: (https://www.linkedin.com/in/omkar-madipalli/)
-GitHub: (https://github.com/omkar0805)
+Omkar Madipalli | LinkedIn
