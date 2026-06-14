@@ -6,13 +6,12 @@ An interactive Power BI dashboard analyzing sales performance using the Global S
 
 🎯 Business Objective
 
-(Edit this: e.g., "Help leadership understand which regions, products, and customer segments drive profitability — and where margins are being lost — to guide pricing and inventory strategy.")
+Help leadership understand which regions
 
 🗂️ Dataset
 
 
 Source: Global Superstore dataset
-Size: (e.g., X rows, Y columns)
 Key fields: Order Date, Region, Category, Sub-Category, Sales, Profit, Customer Segment, Shipping Mode, etc.
 
 
@@ -35,20 +34,16 @@ Dashboard Design — built filters/slicers for interactive exploration
 
 📊 Dashboard Preview
 
-(Add a screenshot here — this is the most important visual for recruiters)
 
-![Dashboard Screenshot](<img width="1168" height="657" alt="image" src="https://github.com/user-attachments/assets/32466211-461c-4d2f-8302-699e51e547c2" />
-)
+<img width="1170" height="655" alt="image" src="https://github.com/user-attachments/assets/79564422-c373-469b-a514-ee77c44beff4" />
+
 
 💡 Key Insights
 
-(Replace with 3-5 real findings, e.g.:)
-
-
-Region X generates the highest sales but has the lowest profit margin
-Category Y is the most profitable across all segments
-Q4 consistently shows the strongest sales performance
-
+• APAC market generated the highest sales revenue.
+• Consumer segment contributed the majority of total sales.
+• Quarterly sales showed consistent growth from Q1 to Q4.
+• Technology category demonstrated strong profitability.
 
 🚀 How to Use
 
