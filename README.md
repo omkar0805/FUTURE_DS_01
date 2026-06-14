@@ -37,7 +37,8 @@ Dashboard Design — built filters/slicers for interactive exploration
 
 (Add a screenshot here — this is the most important visual for recruiters)
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](<img width="1168" height="657" alt="image" src="https://github.com/user-attachments/assets/32466211-461c-4d2f-8302-699e51e547c2" />
+)
 
 💡 Key Insights
 
